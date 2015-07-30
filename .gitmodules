@@ -1,0 +1,6 @@
+[submodule "rancher-mesos-scheduler"]
+	path = rancher-mesos-scheduler
+	url = git@github.com:wlan0/rancher-mesos-scheduler.git
+[submodule "rancher-mesos-executor"]
+	path = rancher-mesos-executor
+	url = git@github.com:wlan0/rancher-mesos-executor.git
